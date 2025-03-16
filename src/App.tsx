@@ -4,9 +4,9 @@ import { ChevronLeft, ChevronRight, Flower2 } from "lucide-react";
 const images = [
   "https://github.com/SiapaAkuuuu/pptmu/blob/main/assets/1.png?raw=true", // Pink flowers
   "https://github.com/SiapaAkuuuu/pptmu/blob/main/assets/2.png?raw=true",
-  "./assets/3.png",
-  "./assets/4.png",
-  "./assets/5.png",
+  "https://github.com/SiapaAkuuuu/pptmu/blob/main/assets/3.png?raw=true",
+  "https://github.com/SiapaAkuuuu/pptmu/blob/main/assets/4.png?raw=true",
+  "https://github.com/SiapaAkuuuu/pptmu/blob/main/assets/5.png?raw=true",
 ];
 
 function App() {
