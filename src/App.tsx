@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { ChevronLeft, ChevronRight, Flower2 } from "lucide-react";
 
 const images = [
-  "./assets/1.png", // Pink flowers
+  "https://github.com/SiapaAkuuuu/pptmu/blob/main/assets/1.png?raw=true", // Pink flowers
   "./assets/2.png",
   "./assets/3.png",
   "./assets/4.png",
